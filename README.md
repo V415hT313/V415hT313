@@ -1,6 +1,6 @@
 ![MasterHead](https://d33wubrfki0l68.cloudfront.net/c29d0c185426842fa27bca13dee75c2c4457f9a8/ff26b/img/octocat-banner.jpg)
 <h1 align="center">Hi 👋, I'm Vaishnavi Tiwari</h1>
-<h3 align="center">A ordinary person who is passionate about Data science and other tech fields.</h3>
+<h3 align="center">Just an ordinary geek who is enthusiastic  about Data science , Ai/Ml and other technical fields.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
