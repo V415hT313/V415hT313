@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
 
-- 🔭 I’m currently working on **Data analytics and working up on polishing my skills .**
+- 🔭 Currently working on **Data analytics and working up on polishing my skills .**
 
-- 🌱 I’m currently learning **R, mySQL, Data structure with c++ and many more.**
+- 🌱  Learning **R, mySQL, Data structure with c++ and other tech contrivance.**
 
 - 📫 How to reach me **vashu2506rkt@gmail.com**
 
