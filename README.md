@@ -1,17 +1,17 @@
 ![MasterHead](https://d33wubrfki0l68.cloudfront.net/c29d0c185426842fa27bca13dee75c2c4457f9a8/ff26b/img/octocat-banner.jpg)
-<h1 align="center">Hi 👋, I'm Vaishnavi Tiwari</h1>
-<h3 align="center">There's nothing to say, yet learning.</h3>
+
+<h3 align="center"> Hi, I'm Vaishnavi. There's nothing to say anything, cause yet learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
 
-- 🔭 Researching domain modelling and agile techniques. Also Researching Data structures and algorithms with reducing complexity techniques**
+- 🔭 Researching domain modelling and agile techniques. Also Researching Data structures and algorithms with reducing complexity techniques.
 
-- 🌱 Learning cross platform development with Flutter and React Native.**
+- 🌱 Learning cross platform development with Flutter and React Native.
 
-- 📫 How to reach me **vashu2506rkt@gmail.com**
+- 📫 How to reach me **vashu2506rkt@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
