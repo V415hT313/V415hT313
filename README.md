@@ -8,8 +8,9 @@
 <p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
 
 - 🔭 Researching domain modelling and agile techniques. Also      Researching Data structures and algorithms with reducing complexity techniques.
-
 - 🌱 Learning cross platform development with Flutter and React Native.
+- 💬 10 + 10 = 20 and 11 + 11 = 20 (twenty too). 
+- ⚡ Fun fact: I love travelling solo, which i never did.
 
 - 📫 How to reach me **vashu2506rkt@gmail.com.
 
