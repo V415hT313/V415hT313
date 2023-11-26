@@ -9,7 +9,7 @@
 
 - 🔭 Researching domain modelling and agile techniques. Also      Researching Data structures and algorithms with reducing complexity techniques.
 - 🌱 Learning cross platform development with Flutter and React Native.
-- 💬 10 + 10 = 20 and 11 + 11 = 20 (twenty too). 
+- 💬 10 + 10 = 20 and 11 + 11 = 20 (22~twenty too). 
 - ⚡ Fun fact: I love travelling solo, which i never did.
 
 - 📫 How to reach me **vashu2506rkt@gmail.com.
