@@ -23,11 +23,6 @@
 </div>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
-
-
-
 - 🔭 Researching domain modelling and agile techniques. Also      Researching Data structures and algorithms with reducing complexity techniques.
 - 🌱 Learning cross platform development with Flutter and React Native.
 - 💬 10 + 10 = 20 and 11 + 11 = 20 (22~twenty too). 
@@ -55,9 +50,10 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v415ht313&show_icons=true&locale=en" alt="v415ht313" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v415ht313&" alt="v415ht313" /></p>
-
