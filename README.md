@@ -23,7 +23,7 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
 
@@ -58,6 +58,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </br>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v415ht313&show_icons=true&locale=en" alt="v415ht313" /></p>
 
