@@ -57,7 +57,6 @@
 
 </br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v415ht313&show_icons=true&locale=en" alt="v415ht313" /></p>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v415ht313&" alt="v415ht313" /></p>
