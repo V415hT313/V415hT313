@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
+
 
 - 🔭 Researching domain modelling and agile techniques. Also      Researching Data structures and algorithms with reducing complexity techniques.
 - 🌱 Learning cross platform development with Flutter and React Native.
@@ -35,8 +35,9 @@
 - ⚡ Fun fact: I love travelling solo, which i never did.
 
 - 📫 How to reach me **vashu2506rkt@gmail.com.
+<p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
 
-  </br>
+</br>
 
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
