@@ -28,9 +28,10 @@
 - 💬 10 + 10 = 20 and 11 + 11 = 20 (22~twenty too). 
 - ⚡ Fun fact: I love travelling solo, which i never did.
 
-- 📫 How to reach me **vashu2506rkt@gmail.com.
-<p align="left"> <a href="https://twitter.com/vaaiiissss" target="blank"><img src="https://img.shields.io/twitter/follow/vaaiiissss?logo=twitter&style=for-the-badge" alt="vaaiiissss" /></a> </p>
+- 📫 How to reach me -
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Vaaiiissss) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vaishnavi-tiwari-3a82731a2)
 
+ 
 </br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
