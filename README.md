@@ -55,7 +55,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</br>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v415ht313&show_icons=true&locale=en" alt="v415ht313" /></p>
 </br>
