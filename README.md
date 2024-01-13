@@ -53,4 +53,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v415ht313&label=Profile%20views&color=0e75b6&style=flat" alt="v415ht313" /> </p>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v415ht313&" alt="v415ht313" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=V415hT313&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
